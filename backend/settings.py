@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-la5g134&bf!gc=kua8fq@dip7_c*$i@0&lzelpz#q30s3=w38%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['barisozan.pythonanywhere.com']
+ALLOWED_HOSTS = ['barisozans.pythonanywhere.com']
 
 
 # Application definition
@@ -129,7 +129,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # CORS settings
 CORS_ALLOWED_ORIGINS = [
-    'https://your-app-name.netlify.app',
+    'https://brilliant-kataifi-d42b99.netlify.app',
 ]
 
 # Optional: Allow credentials
